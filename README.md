@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# 💫 About Me:
+
 🌱 I’m a **Junior Database Developer & Data Analyst** urrently learning  Advanced SQL & PL/SQL optimization, ETL pipelines and data warehousing, Cloud databases (AWS RDS, Aurora),Real-time analytics & BI dashboards  <br><br>🗄️ Building projects with SQL Server and Oracle (database design, queries, analytics)<br><br>🤝 Open to collaborating on database projects, data analysis tasks, and SQL practice repositories<br><br>🧠 Interested in learning more about performance tuning, ETL basics, and data modeling<br><br>💡 Fun fact: I enjoy turning raw data into structured databases and useful insights<br><br>🎯 Actively seeking entry-level Database Developer, Junior DBA, or Data Analyst opportunities
 
 
